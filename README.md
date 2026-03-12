@@ -1,4 +1,4 @@
-# Sibenice (Hangman)
+# Šibenice (Hangman)
 
 Console-based Hangman game in C# — semester project for **Czech University of Life Sciences Prague** (Faculty of Economics and Management, Informatics).
 
