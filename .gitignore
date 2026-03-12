@@ -1,0 +1,8 @@
+bin/
+obj/
+scores.json
+custom_slova.json
+*.user
+*.suo
+.vs/
+CLAUDE.md
